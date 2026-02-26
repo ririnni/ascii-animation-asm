@@ -9,7 +9,7 @@ int main() {
     int k;
     float z[1760];
     char b[1760];
-    printf("\x1b[2J"); // Очистка экрана
+    printf("\x1b[35m"); // Очистка экрана
     for(;;) {
         memset(b, 32, 1760);
         memset(z, 0, 7040);

@@ -2,7 +2,7 @@
 	.text
 	.section .rdata,"dr"
 .LC3:
-	.ascii "\33[2J\0"
+	.ascii "\33[35m\0"
 .LC14:
 	.ascii "\33[H\0"
 .LC10:
